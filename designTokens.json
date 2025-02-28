@@ -2036,24 +2036,24 @@
     },
     "lineHeight": {
       "xs": {
-        "value": "1.4",
+        "value": "0.85",
         "type": "string"
       },
       "sm": {
-        "value": "1.45",
+        "value": "1",
         "type": "string"
       },
       "md": {
-        "value": "0.097rem",
-        "type": "dimension"
+        "value": "1.35",
+        "type": "string"
       },
       "lg": {
-        "value": "0.1rem",
-        "type": "dimension"
+        "value": "1.5",
+        "type": "string"
       },
       "xl": {
-        "value": "0.103rem",
-        "type": "dimension"
+        "value": "2",
+        "type": "string"
       }
     },
     "spacing": {
