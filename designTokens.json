@@ -1941,7 +1941,7 @@
       "type": "text"
     },
     "lineHeight": {
-      "xl-1": {
+      "xs": {
         "value": "0.85",
         "type": "text"
       },
