@@ -2036,12 +2036,12 @@
     },
     "lineHeight": {
       "xs": {
-        "value": "0.087rem",
-        "type": "dimension"
+        "value": "1.4",
+        "type": "string"
       },
       "sm": {
-        "value": "0.091rem",
-        "type": "dimension"
+        "value": "1.45",
+        "type": "string"
       },
       "md": {
         "value": "0.097rem",
