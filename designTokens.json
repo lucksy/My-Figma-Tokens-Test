@@ -1940,6 +1940,28 @@
       "value": "-apple-system",
       "type": "text"
     },
+    "lineHeight": {
+      "xl-1": {
+        "value": "0.85",
+        "type": "text"
+      },
+      "sm": {
+        "value": "1",
+        "type": "text"
+      },
+      "md": {
+        "value": "1.35",
+        "type": "text"
+      },
+      "lg": {
+        "value": "1.5",
+        "type": "text"
+      },
+      "xl": {
+        "value": "2",
+        "type": "text"
+      }
+    },
     "number": {
       "scale": {
         "value": "0.062rem",
@@ -2032,28 +2054,6 @@
       "xxs": {
         "value": "0.625rem",
         "type": "dimension"
-      }
-    },
-    "lineHeight": {
-      "xs": {
-        "value": "0.85",
-        "type": "string"
-      },
-      "sm": {
-        "value": "1",
-        "type": "string"
-      },
-      "md": {
-        "value": "1.35",
-        "type": "string"
-      },
-      "lg": {
-        "value": "1.5",
-        "type": "string"
-      },
-      "xl": {
-        "value": "2",
-        "type": "string"
       }
     },
     "spacing": {
