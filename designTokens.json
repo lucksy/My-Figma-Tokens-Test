@@ -1002,27 +1002,27 @@
     },
     "fontWeights": {
       "Regular": {
-        "value": "25rem",
+        "value": "400",
         "type": "dimension"
       },
       "Thin": {
-        "value": "6.25rem",
+        "value": "100",
         "type": "dimension"
       },
       "Light": {
-        "value": "18.75rem",
+        "value": "300",
         "type": "dimension"
       },
       "Medium": {
-        "value": "31.25rem",
+        "value": "500",
         "type": "dimension"
       },
       "Semibold": {
-        "value": "37.5rem",
+        "value": "600",
         "type": "dimension"
       },
       "Bold": {
-        "value": "43.75rem",
+        "value": "700",
         "type": "dimension"
       }
     }
