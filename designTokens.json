@@ -1028,59 +1028,59 @@
     },
     "width": {
       "3xs": {
-        "value": "1rem",
+        "value": "16rem",
         "type": "dimension"
       },
       "2xs": {
-        "value": "1.125rem",
+        "value": "18rem",
         "type": "dimension"
       },
       "xs": {
-        "value": "1.25rem",
+        "value": "20rem",
         "type": "dimension"
       },
       "sm": {
-        "value": "1.5rem",
+        "value": "24rem",
         "type": "dimension"
       },
       "md": {
-        "value": "1.75rem",
+        "value": "28rem",
         "type": "dimension"
       },
       "lg": {
-        "value": "2rem",
+        "value": "32rem",
         "type": "dimension"
       },
       "xl": {
-        "value": "2.25rem",
+        "value": "36rem",
         "type": "dimension"
       },
       "2xl": {
-        "value": "2.625rem",
+        "value": "42rem",
         "type": "dimension"
       },
       "3xl": {
-        "value": "3rem",
+        "value": "48rem",
         "type": "dimension"
       },
       "4xl": {
-        "value": "3.5rem",
+        "value": "56rem",
         "type": "dimension"
       },
       "5xl": {
-        "value": "4rem",
+        "value": "64rem",
         "type": "dimension"
       },
       "6xl": {
-        "value": "4.5rem",
+        "value": "72rem",
         "type": "dimension"
       },
       "7xl": {
-        "value": "5rem",
+        "value": "80rem",
         "type": "dimension"
       },
       "8xl": {
-        "value": "5.5rem",
+        "value": "88rem",
         "type": "dimension"
       }
     }
